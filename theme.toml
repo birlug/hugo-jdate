@@ -1,0 +1,11 @@
+name = "Hugo JDate"
+license = "GPLv3"
+description = "hugo jalali date you were looking for"
+homepage = "https://github.com/amiremohamadi/hugo-jdate"
+tags = ["component", "jdate", "jalali", "date"]
+min_version = "0.98.0"
+
+[author]
+  name = "Amir Mohammadi"
+  homepage = "https://github.com/amiremohamadi"
+
