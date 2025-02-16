@@ -6,7 +6,7 @@ add this to your TOML config file:
 ```toml
 [module]
   [[module.imports]]
-    path = "github.com/amiremohamadi/hugo-jdate"
+    path = "github.com/birlug/hugo-jdate"
 ```
 
 read more about hugo modules [here](https://gohugo.io/hugo-modules/use-modules/).
